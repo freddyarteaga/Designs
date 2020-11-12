@@ -4,9 +4,9 @@ A new Flutter project.
 
 ## Screenshoot
 
-![alt text](./assets/img/basico.JPG "Basico")
-![alt text](./assets/img/scroll.JPG "Scroll")
-![alt text](./assets/img/botones.JPG "Botones")
+![alt text](./assets/basico.JPG "Basico")
+![alt text](./assets/scroll.JPG "Scroll")
+![alt text](./assets/botones.JPG "Botones")
 
 ## Getting Started
 
