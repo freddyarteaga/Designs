@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## Screenshoot
+
+![alt text](./assets/img/basico.JPG "Basico")
+![alt text](./assets/img/scroll.JPG "Scroll")
+![alt text](./assets/img/botones.JPG "Botones")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
